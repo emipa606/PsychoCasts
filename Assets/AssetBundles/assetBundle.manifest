@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1200379894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd1dd18bae584f79251bd4861515e0f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bd1dd18bae584f79251bd4861515e0f2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/Disarm.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/Meditate.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/Disarm2.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/PainShock2.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/Nausea.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/Haste.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/Dread.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/EntropyBond.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/ShadowSkip.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/MassSkip.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/Migraine.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/PainShock.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/Rally.png
+- Assets/Data/Mlie.PsychoCasts/Textures/CustomIcons/Manhunt.png
+Dependencies: []

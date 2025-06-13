@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: disarm -->
+  <Disarm.label>disarm</Disarm.label>
+  <!-- EN: Paralyze parts of the motor cortex, loosening the target's grip and forcing them to drop their weapon. -->
+  <Disarm.description>Paralyze parts of the motor cortex, loosening the target's grip and forcing them to drop their weapon.</Disarm.description>
+  <!-- EN: dread -->
+  <Dread.label>dread</Dread.label>
+  <!-- EN: Induce thoughts of terror in the target, forcing a momentary state of surrender. -->
+  <Dread.description>Induce thoughts of terror in the target, forcing a momentary state of surrender.</Dread.description>
+  <!-- EN: entropy bond -->
+  <Entropy_Bond.label>entropy bond</Entropy_Bond.label>
+  <!-- EN: A psychic linking technique which allows the caster to create a psychic bond with an ally to share entropy gain equally between them. -->
+  <Entropy_Bond.description>A psychic linking technique which allows the caster to create a psychic bond with an ally to share entropy gain equally between them.</Entropy_Bond.description>
+  <!-- EN: haste -->
+  <Haste.label>haste</Haste.label>
+  <!-- EN: Induce a minor surge of adrenaline, accelerating the target's movements. -->
+  <Haste.description>Induce a minor surge of adrenaline, accelerating the target's movements.</Haste.description>
+  <!-- EN: manhunt -->
+  <Manhunt.label>manhunt</Manhunt.label>
+  <!-- EN: Drive an animal into a manhunting rage. Focusing the pulse into a small area requires some concentration, but also greatly reduces the entropy's severity. -->
+  <Manhunt.description>Drive an animal into a manhunting rage. Focusing the pulse into a small area requires some concentration, but also greatly reduces the entropy's severity.</Manhunt.description>
+  <!-- EN: mass skip -->
+  <Mass_Skip.label>mass skip</Mass_Skip.label>
+  <!-- EN: Teleport targets in an area to a desired position not too far from the starting point. -->
+  <Mass_Skip.description>Teleport targets in an area to a desired position not too far from the starting point.</Mass_Skip.description>
+  <!-- EN: meditate -->
+  <Meditate.label>meditate</Meditate.label>
+  <!-- EN: Flush all thoughts from the caster's mind and concentrate on restoring psyfocus and venting heat. -->
+  <Meditate.description>Flush all thoughts from the caster's mind and concentrate on restoring psyfocus and venting heat.</Meditate.description>
+  <!-- EN: migraine -->
+  <Migraine.label>migraine</Migraine.label>
+  <!-- EN: Overload the target's senses, inducing a debilitating migraine. -->
+  <Migraine.description>Overload the target's senses, inducing a debilitating migraine.</Migraine.description>
+  <!-- EN: nausea -->
+  <Nausea.label>nausea</Nausea.label>
+  <!-- EN: Induce dizziness in the target overwhelming them with nausea. -->
+  <Nausea.description>Induce dizziness in the target overwhelming them with nausea.</Nausea.description>
+  <!-- EN: pain shock -->
+  <Pain_Shock.label>pain shock</Pain_Shock.label>
+  <!-- EN: Stimulate pain receptors, causing pain and increasing sensitivity in the target. -->
+  <Pain_Shock.description>Stimulate pain receptors, causing pain and increasing sensitivity in the target.</Pain_Shock.description>
+  <!-- EN: rally -->
+  <Rally.label>rally</Rally.label>
+  <!-- EN: Motivates everyone around the caster with a call to action, coupled with a wave psychic suggestions to enhance the effect. -->
+  <Rally.description>Motivates everyone around the caster with a call to action, coupled with a wave psychic suggestions to enhance the effect.</Rally.description>
+  <!-- EN: shadow skip -->
+  <Shadow_Skip.label>shadow skip</Shadow_Skip.label>
+  <!-- EN: Obscures the caster from the senses of others and allows them skip a short distance, even through solid matter. Warning: This ability works best in locations the user is familiar with. Skipping into unknown locations is possible, however, doing so has been known to create temporal anomalies. -->
+  <Shadow_Skip.description>Obscures the caster from the senses of others and allows them skip a short distance, even through solid matter. Warning: This ability works best in locations the user is familiar with. Skipping into unknown locations is possible, however, doing so has been known to create temporal anomalies.</Shadow_Skip.description>
+</LanguageData>

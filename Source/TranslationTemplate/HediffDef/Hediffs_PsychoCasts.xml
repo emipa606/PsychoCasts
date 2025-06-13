@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: disarm -->
+  <Disarm.label>disarm</Disarm.label>
+  <!-- EN: Psychically-induced mental weakness, loosening grip completely. -->
+  <Disarm.description>Psychically-induced mental weakness, loosening grip completely.</Disarm.description>
+  <!-- EN: dread -->
+  <Dread.label>dread</Dread.label>
+  <!-- EN: Psychically-induced fear, causing a nervous breakdown. -->
+  <Dread.description>Psychically-induced fear, causing a nervous breakdown.</Dread.description>
+  <!-- EN: entropy bond -->
+  <EntropyBond.label>entropy bond</EntropyBond.label>
+  <!-- EN: A psychic link with another individual. Gain or loss of psychic entropy incurred by one will be shared between both. -->
+  <EntropyBond.description>A psychic link with another individual. Gain or loss of psychic entropy incurred by one will be shared between both.</EntropyBond.description>
+  <!-- EN: haste -->
+  <Haste.label>haste</Haste.label>
+  <!-- EN: Psychically-induced adrenaline, accelerating movement. -->
+  <Haste.description>Psychically-induced adrenaline, accelerating movement.</Haste.description>
+  <!-- EN: migraine -->
+  <Headache.label>migraine</Headache.label>
+  <!-- EN: Psychically-induced migraine. -->
+  <Headache.description>Psychically-induced migraine.</Headache.description>
+  <!-- EN: meditation -->
+  <Meditation.label>meditation</Meditation.label>
+  <!-- EN: A mental state of tranquility. -->
+  <Meditation.description>A mental state of tranquility.</Meditation.description>
+  <!-- EN: motivating rush -->
+  <Motivation.label>motivating rush</Motivation.label>
+  <!-- EN: Psychically-induced motivation. -->
+  <Motivation.description>Psychically-induced motivation.</Motivation.description>
+  <!-- EN: pain shock -->
+  <PainShock.label>pain shock</PainShock.label>
+  <!-- EN: Psychically-induced pain. -->
+  <PainShock.description>Psychically-induced pain.</PainShock.description>
+</LanguageData>
